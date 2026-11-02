@@ -1,6 +1,6 @@
 || NukeShared v2.6 - Max van Leeuwen - maxvanleeuwen.com/nukeshared
 
-
+|| update 2026/11/02 merge all autoinstall plugin to KIT folder
 
 
 
